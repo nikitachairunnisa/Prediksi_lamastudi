@@ -2,7 +2,6 @@ pandas
 numpy
 matplotlib
 seaborn
-base64
 scikit-learn
 openpyxl
 BytesIO
